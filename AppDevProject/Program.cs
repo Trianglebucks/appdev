@@ -6,8 +6,8 @@ namespace AppDevProject
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Julius Pogi");
-            Console.WriteLine("Secret, walang password");
+            Console.WriteLine("Hello World");
+         
         }
     }
 }
